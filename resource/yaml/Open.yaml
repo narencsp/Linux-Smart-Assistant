@@ -1,0 +1,44 @@
+Open:
+  Application:
+
+    android-studio:
+      - 'android studio '
+    b1freearchiver:
+      - 'b1freearchiver'
+    gnome-calculator:
+      - 'calculator'
+    gnome-calendar:
+      - 'calendar'
+    chromium:
+      - 'chromium'
+    nautilus:
+      - 'file'
+    firefox:
+      - 'firefox'
+    gimp:
+      - 'gimp'
+    libreoffice:
+      - 'libreoffice'
+    gnome-mines:
+      - 'gnome mines'
+    pycharm-community:
+      - 'pycharm community'
+    qbittorrent:
+      - 'qbittorrent'
+    gnome-sudoku:
+      - 'sudoku'
+    gnome-system-monitor:
+      - 'system monitor'
+    gnome-terminal:
+      - 'terminal'
+    gedit:
+      - 'text editor'
+    gnome-tweaks:
+      - 'tweaks'
+    ubuntu-software:
+      - 'ubuntu software'
+    vlc:
+      - 'vlc'
+
+  File:
+    - 'from'
