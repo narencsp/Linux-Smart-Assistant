@@ -168,7 +168,7 @@ class Myassistant:
                             'model_id': device_model_id,
                         }, f)
                 else:
-                    print(WARNING_NOT_REGISTERED) //test nr
+                    print(WARNING_NOT_REGISTERED) 
 
             for event in events:
                 if Myassistant.thread == 2:
